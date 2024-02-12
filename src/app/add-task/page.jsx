@@ -7,7 +7,7 @@ export const metadata={
 
 const Page = () => {
   return (
-    <div>
+    <div className='min-h-screen'>
       <AddTask />
     </div>
   )

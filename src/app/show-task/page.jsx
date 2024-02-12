@@ -8,7 +8,7 @@ export const metadata = {
 
 const ShowTasks = () => {
   return (
-    <div className=''>
+    <div className='min-h-screen'>
       <ShowTask />
     </div>
   )
